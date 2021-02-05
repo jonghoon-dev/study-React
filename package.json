@@ -1,0 +1,27 @@
+{
+  "name": "std-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonghoon-dev/study-React.git"
+  },
+  "author": "jonghoon-dev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonghoon-dev/study-React/issues"
+  },
+  "homepage": "https://github.com/jonghoon-dev/study-React#readme",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "webpack": "^5.20.2",
+    "webpack-cli": "^4.5.0"
+  }
+}
